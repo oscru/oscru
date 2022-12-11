@@ -1,12 +1,17 @@
-# Hey! I'm Oscru⚡
+<a href="https://oscru.netlify.app" target="_blank">
+  <img title="Oscru Web Dev" alt="Oscru Web Dev banner"  src="https://i.ibb.co/qr05Zv1/Linkedin-cover.png" style="margin-bottom:5px"/>
+</a>
+
+## Hey! I'm Oscru⚡
 
 Full-stack Javascript developer 💛 with 3+ years of experience from Mexico.
 
 ## 🤓 About Me
 
 - I'm creating bugs since 2019.
-- I'm currently learning portuguese 🇧🇷
-- My goal is start my own business while I'm traveling ✈️.
+- I'm currently learning docker 🐋 and jest 🤡.
+- I love languages, currently rearning  portuguese 🇧🇷.
+- I like to work on interesting projects, if you have one, contact me! 💪🏽
 
 ## 💻 I build  amazing apps with:
 
