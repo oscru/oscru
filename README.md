@@ -8,10 +8,10 @@ Full-stack Javascript developer 💛 with 3+ years of experience from Mexico.
 
 ## 🤓 About Me
 
-- I'm creating bugs since 2019.
-- I'm currently learning docker 🐋 and jest 🤡.
-- I love languages, currently rearning  portuguese 🇧🇷.
-- I like to work on interesting projects, if you have one, contact me! 💪🏽
+ 🟢 I'm creating bugs since 2019. <br />
+ 🟢 I'm currently learning docker 🐋 and jest 🤡. <br />
+ 🟢 I love languages, currently rearning  portuguese 🇧🇷. <br />
+ 🟢 I like to work on interesting projects, if you have one, contact me! 💪🏽 <br />
 
 ## 💻 I build  amazing apps with:
 
