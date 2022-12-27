@@ -51,8 +51,8 @@ Full-stack Javascript developer 💛 with 3+ years of experience from Mexico.
 <a href="http://oscru.netlify.app/" target="_blank">
     <img title="Oscru" alt="Oscru"  src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
-  <a href="http://oscru.netlify.app/" target="_blank">
-    <img title="Oscru" alt="Oscru"  src="https://img.shields.io/badge/my_playlist-24BC58?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://open.spotify.com/playlist/6BV5V7pPoUXWt9YctJhttc" target="_blank">
+    <img title="Oscru" alt="Chill Code"  src="https://img.shields.io/badge/my_playlist-24BC58?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/oscru/" target="_blank">
     <img title="Oscru" alt="Oscru"  src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
