@@ -4,12 +4,12 @@
 
 ## Hey! I'm Oscru⚡
 
-Full-stack Javascript developer 💛 with 3+ years of experience from Mexico.
+Full-stack developer with 4+ years of experience from Mexico.
 
 ## 🤓 About Me
 
  🟢 I'm creating bugs since 2019. <br />
- 🟢 I'm currently learning docker 🐋 and jest 🤡. <br />
+ 🟢 I'm currently learning cloud computing ☁️ to reach the next level 🚀. <br />
  🟢 I love languages, currently rearning  portuguese 🇧🇷. <br />
  🟢 I like to work on interesting projects, if you have one, contact me! 💪🏽 <br />
 
