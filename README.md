@@ -22,11 +22,17 @@ Full-stack developer with 4+ years of experience from Mexico.
   <a href="https://www.typescriptlang.org" target="_blank">
     <img title="Typescript" alt="Typescript"  src="https://img.shields.io/badge/typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=fff"style="margin-bottom:5px"/>
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img title="Angular" alt="Angular"  src="https://img.shields.io/badge/angular-fff?style=for-the-badge&logo=angular&logoColor=D62F34"style="margin-bottom:5px"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img title="React" alt="React"  src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=00DCFF"style="margin-bottom:5px"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img title="Nestjs" alt="Nestjs"  src="https://img.shields.io/badge/nest-ED1543?style=for-the-badge&logo=nestjs&logoColor=white"style="margin-bottom:5px"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img title="Nodejs" alt="Nodejs"  src="https://img.shields.io/badge/nodejs-639856?style=for-the-badge&logo=node.js&logoColor=fff"style="margin-bottom:5px"/>
   </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img title="Gatsby" alt="Gatsby"  src="https://img.shields.io/badge/gatsby-673399?style=for-the-badge&logo=gatsby&logoColor=white"style="margin-bottom:5px"/>
@@ -42,6 +48,9 @@ Full-stack developer with 4+ years of experience from Mexico.
   </a>
   <a href="https://graphql.org/" target="_blank">
     <img title="Graphql" alt="Graphql"  src="https://img.shields.io/badge/graphql-E632AC?style=for-the-badge&logo=graphql&logoColor=fff"style="margin-bottom:5px"/>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank">
+    <img title="MySQL" alt="MySQL"  src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=fff" style="margin-bottom:5px"/>
   </a>
   </div>
 
