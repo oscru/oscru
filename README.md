@@ -1,7 +1,3 @@
-<a href="https://oscru.netlify.app" target="_blank">
-  <img title="Oscru Web Dev" alt="Oscru Web Dev banner"  src="https://i.ibb.co/qr05Zv1/Linkedin-cover.png" style="margin-bottom:5px"/>
-</a>
-
 ## Hey! I'm Oscru⚡
 
 Full-stack developer with 4+ years of experience from Mexico.
