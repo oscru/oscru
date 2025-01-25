@@ -1,8 +1,8 @@
-## Hey! I'm Oscru⚡
+## Hey! I'm Oscar Cruz⚡
 
 Full-stack developer with 4+ years of experience from Mexico.
 
-## 🤓 About Me
+## 🧑🏻‍💻 About Me
 
  🟢 I'm creating bugs since 2019. <br />
  🟢 I'm currently learning cloud computing ☁️ to reach the next level 🚀. <br />
